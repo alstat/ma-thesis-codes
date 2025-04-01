@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hokyjack/jupyterlab-monokai-plus": "^0.1.4"
+  }
+}
