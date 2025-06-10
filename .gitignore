@@ -2,3 +2,4 @@ models
 node_modules
 data
 notebooks
+.ipynb_checkpoints
