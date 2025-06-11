@@ -1,2 +1,3 @@
 # ma-thesis-codes
-Repository for my MA in Islamic Studies Thesis
+Julia source code repository for the analytics part of my MA in Islamic Studies thesis
+s
